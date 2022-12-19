@@ -1,44 +1,44 @@
 ## PROJECTS for PYTHON :
 
-Email Sender
+    Email Sender
 
-Word Replacement Program
+    Word Replacement Program
 
-Basic Calculator
+    Basic Calculator
 
-Email Slicer
+    Email Slicer
 
-Binary Search Algorithm
+    Binary Search Algorithm
 
-Quiz Program
+    Quiz Program
 
-QR Code Generator
+    QR Code Generator
 
-Interest Payment Calculator
+    Interest Payment Calculator
 
-Random Password Generator
+    Random Password Generator
 
-Dice Rolling Simulator
+    Dice Rolling Simulator
 
-Site Connectivity Checker
+    Site Connectivity Checker
 
-Currency Converter
+    Currency Converter
 
-Leap Year Checker
+    Leap Year Checker
 
-Word Dictionary
+    Word Dictionary
 
-Rock, Paper, Scissors
+    Rock, Paper, Scissors
 
-Python Face Detection
+    Python Face Detection
 
-Python Automation
+    Python Automation
 
-Web Scraper
+    Web Scraper
 
-Image Resizer
+    Image Resizer
 
-Graph Plotter
+    Graph Plotter
 
 ### Extra
 
