@@ -40,5 +40,5 @@ Image Resizer
 
 Graph Plotter
 
-Whatsapp BOT
+Whatsapp Bot
 
